@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A magical documentation site generator.
+  Indriks company machine.
 </p>
 
 <p align="center">
